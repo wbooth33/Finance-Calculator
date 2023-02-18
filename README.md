@@ -1,0 +1,3 @@
+# Finance-Calculator
+A finance calculator that can calculate the return on investment or how much is needed per month to pay off a mortgage.
+As one of my capstone projects with HyperionDev. I was tasked with creating a finance calculator which could do two calculations. One was to find the return on investment based on how much the user invested, the interest rate , how long they wish to leave the investment for and which type of interest scheme they would like “Simple” or “Compound”. And the other was to calculate how much the user needs to pay back monthly on a mortgage on a house using the user's input of how much the property costs, interest rate and how long they plan to pay -off the debt for.
